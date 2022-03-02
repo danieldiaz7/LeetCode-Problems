@@ -1,4 +1,16 @@
-int removeDuplicates(vector<int>& nums) {
+/*
+Daniel Diaz
+LeetCode Algorithms Problem - Remove Duplicates from Sorted Array
+
+- Description:
+Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. 
+The relative order of the elements should be kept the same.
+*/
+
+// - My Solution:
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
         
         //if array of size 1, there are no duplicates -> just return 1
         if (nums.size() == 1 ) return 1;
@@ -19,3 +31,4 @@ int removeDuplicates(vector<int>& nums) {
         
         return count;
     }
+};
