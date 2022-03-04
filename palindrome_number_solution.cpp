@@ -1,6 +1,6 @@
 /*
 Daniel Diaz
-LeetCode Algorithms Problem - Palindrome Number
+LeetCode Problem - Palindrome Number
 
 - Description:
 Given an integer x, return true if x is palindrome integer.
