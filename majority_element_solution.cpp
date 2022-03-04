@@ -1,6 +1,6 @@
 /*
 Daniel Diaz
-LeetCode Algorithms Problem - Majority Element
+LeetCode Problem - Majority Element
 - Description:
 Given an array nums of size n, return the majority element.
 
